@@ -194,8 +194,8 @@ body {
 }
 
 .buttonLink__icon {
-  width: 23px;
-  height: 23px;
+  width: 25px;
+  height: 25px;
   color: var(--fg);
 }
 
@@ -222,6 +222,14 @@ body {
 .buttonLink__link-6 {
   grid-row: 2;
   grid-column: 3;
+}
+.buttonLink__link-7 {
+  grid-row: 1;
+  grid-column: 4;
+}
+.buttonLink__link-8 {
+  grid-row: 2;
+  grid-column: 4;
 }
 .buttonLink__link:hover {
   background-color: var(--accent);
