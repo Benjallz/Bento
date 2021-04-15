@@ -80,7 +80,7 @@ body {
 }
 
 .container {
-  width: 145vh;
+  width: 105vh;
   height: 65vh;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
