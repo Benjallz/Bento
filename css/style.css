@@ -202,14 +202,17 @@ body {
 .buttonLink__link-1 {
   grid-row: 1;
   grid-column: 1;
+  background-color: #9147ff
 }
 .buttonLink__link-2 {
   grid-row: 1;
   grid-column: 2;
+  background-color: #9147ff
 }
 .buttonLink__link-3 {
   grid-row: 2;
   grid-column: 1;
+  background-color: #9147ff
 }
 .buttonLink__link-4 {
   grid-row: 2;
@@ -219,21 +222,22 @@ body {
 .buttonLink__link-5 {
   grid-row: 1;
   grid-column: 3;
+  background-color: #9147ff
 }
 .buttonLink__link-6 {
   grid-row: 2;
   grid-column: 3;
+  background-color: #9147ff
 }
 .buttonLink__link-7 {
   grid-row: 1;
   grid-column: 4;
+  background-color: #9147ff
 }
 .buttonLink__link-8 {
   grid-row: 2;
   grid-column: 4;
-}
-.buttonLink__link:hover {
-  background-color: var(--accent);
+  background-color: #9147ff
 }
 .buttonLink__link:hover svg {
   stroke: var(--sfg);
